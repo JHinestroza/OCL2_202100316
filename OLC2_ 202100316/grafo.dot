@@ -1,0 +1,9 @@
+digraph G {
+node [shape=plaintext]
+nodo [label=<<table border='1' cellspacing='0'>
+<tr>   <td>Tipo</td>  <td>Descripcion</td> <td>Ammbito</td>  <td>Línea</td>  <td>Columna</td>  </tr>
+<tr>
+<td> Semantico </td>   <td> La sentencia de transferencia no se encuentra dentro de un ciclo </td>  <td> GLOBAL</td>   <td> 83</td> <td> 1</td>
+</tr>
+</table>>]
+}
